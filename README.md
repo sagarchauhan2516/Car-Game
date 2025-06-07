@@ -30,4 +30,4 @@ git clone https://github.com/yourusername/car-racing-game-aws-q-cli.git
 cd car-racing-game-aws-q-cli
 
 # Run the game (example in Python)
-python car_game.py
+python racing_game.py
