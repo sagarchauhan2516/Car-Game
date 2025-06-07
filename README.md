@@ -15,19 +15,17 @@ This is a basic **Car Racing Game** developed using **AWS Q CLI**, Amazon's gene
 ## 🧠 Built With
 
 - **AWS Q CLI** – AI-powered coding and code generation
-- **Python** (or your programming language)
-- [Mention any libraries, e.g., Pygame, curses, etc.]
+- **Python** 
 
 ## 📷 Screenshots
-
-![Gameplay Screenshot](link-to-screenshot-if-any)
+![image](https://github.com/user-attachments/assets/acb70c3a-e8af-4c4d-b7d8-87f8edbd2156)
 
 ## 🛠️ How to Run
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/car-racing-game-aws-q-cli.git
-cd car-racing-game-aws-q-cli
+git clone https://github.com/sagarchauhan2516/Car-Game.git
+cd Car-Game
 
-# Run the game (example in Python)
+# Run the game 
 python racing_game.py
